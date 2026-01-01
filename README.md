@@ -42,11 +42,13 @@
     <!-- arch,azure,bootstrap,cs,cpp,css,coffeescript,docker,figma,flask,git,html,java,js,jquery,kali,laravel,linux,mysql,nextjs,nginx,nodejs,npm,php,py,react,raspberrypi,tailwind,vscode,visualstudio,vite,vue,wordpress -->
 </div>
 
+
+
+
 <br/>
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Omar-Hamdan33/Omar-Hamdan33/output/github-contribution-grid-snake.svg" />
   
@@ -62,9 +64,13 @@
 </div> -->
 
 
-<br/><br/>
+<div align="center">
+  <table>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omar-Hamdan33&theme=dracula" alt="Omar's GitHub Activity Graph" />
+      </td>
+    </tr>
 
-<hr/>
 
-<br/>
 
