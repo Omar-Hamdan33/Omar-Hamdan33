@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=azure,bootstrap,css,docker,figma,html,js,jquery" />
-    <img src="https://skillicons.dev/icons?i=laravel,linux,mysql,nextjs,nginx,nodejs,npm,php,py,react,tailwind,vscode,vite,vue" /><br>
+    <img src="https://skillicons.dev/icons?i=laravel,linux,mysql,nginx,nodejs,npm,php,py,react,tailwind,vscode,vite,vue" /><br>
     <!-- arch,azure,bootstrap,cs,cpp,css,coffeescript,docker,figma,flask,git,html,java,js,jquery,kali,laravel,linux,mysql,nextjs,nginx,nodejs,npm,php,py,react,raspberrypi,tailwind,vscode,visualstudio,vite,vue,wordpress -->
 </div>
 
